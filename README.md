@@ -6,13 +6,13 @@
 
 ---
 
-## 🎯 What Is System18?
+## What Is System18?
 
-System18 is a sophisticated trading system designed to actively manage strategies, control risk, analyze performance, and provide real-time market insights. Deployed as a 24/7 live bot, it combines multiple trading strategies with AI-assisted signals and comprehensive risk management to deliver professional-grade automated trading.
+System18 is a trading system designed to actively manage strategies, control risk, analyze performance, and provide real-time market insights. Deployed as a 24/7 live bot, it combines multiple trading strategies with AI-assisted signals and comprehensive risk management to deliver professional-grade automated trading.
 
 ---
 
-## 🚀 Core Features
+##  Core Features
 
 ### 1. Strategy Engine
 
@@ -144,36 +144,9 @@ Stay informed with intelligent alerts delivered to your inbox.
 
 **Delivery:**
 - Email-based for reliability
-- Customizable alert preferences
-- Mobile-friendly format
-
 ---
 
-## 💡 Why System18?
-
-System18 combines the best of algorithmic trading with practical risk management:
-
-✔ **Data-Driven Decisions** — Every trade backed by backtested strategies  
-✔ **Adaptive Intelligence** — Automatically selects the best approach for current conditions  
-✔ **Risk-First Design** — Protects capital with multiple safety layers  
-✔ **Full Transparency** — Complete insight into performance and operations  
-✔ **True Automation** — Runs 24/7 without manual intervention  
-✔ **Professional Grade** — Built with production-ready infrastructure  
-
----
-
-## 🛠️ Technical Stack
-
-- **Language:** Python
-- **Database:** SQLite
-- **Data Connection:** WebSocket APIs
-- **Dashboard:** HTML/JS
-- **Deployment:** VPS hosting
-- **Notifications:** SMTP email
-
----
-
-## 📊 Performance Metrics
+## Performance Metrics
 
 System18 tracks comprehensive metrics including:
 - Total Return & ROI
@@ -186,17 +159,7 @@ System18 tracks comprehensive metrics including:
 
 ---
 
-## 🚦 Getting Started
-
-1. **Configure** your trading parameters and risk limits
-2. **Backtest** strategies on historical data
-3. **Deploy** to your VPS for live trading
-4. **Monitor** performance via the dashboard
-5. **Optimize** based on analytics and insights
-
----
-
-## 📧 Support & Notifications
+## Support & Notifications
 
 System18 keeps you informed with email alerts for all critical events. Configure your SMTP settings to receive:
 - Trade confirmations
@@ -212,10 +175,10 @@ System18 keeps you informed with email alerts for all critical events. Configure
 
 ---
 
-## 📄 License
+## License
 
-[Your License Here]
+DTFYW
 
 ---
 
-**System18** — Professional Automated Trading, Simplified.
+**System18** — Trading bot
