@@ -6,12 +6,6 @@
 
 ---
 
-## What Is System18?
-
-System18 is a trading system designed to actively manage strategies, control risk, analyze performance, and provide real-time market insights. Deployed as a 24/7 live bot, it combines multiple trading strategies with AI-assisted signals and comprehensive risk management to deliver professional-grade automated trading.
-
----
-
 ##  Core Features
 
 ### 1. Strategy Engine
