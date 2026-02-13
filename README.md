@@ -1,8 +1,6 @@
 # System18
 
-<img src="./assets/system18.png" width="400">
-
-# System18
+![System18](./assets/system18.png)
 
 A fully automated trading bot platform that backs up decisions with data, adapts strategy to market conditions, manages risk intelligently through a simple AI model, and runs 24/7 on autopilot.
 
@@ -73,7 +71,7 @@ DTFYW
 
 # System18 - Project Development Guidelines
 
-<img src="./assets/system18_banner.png" width="600">
+<img src="./assets/system18_banner.png" width="1000">
 
 ## Team Structure
 
