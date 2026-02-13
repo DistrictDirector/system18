@@ -71,7 +71,7 @@ DTFYW
 
 # System18 - Project Development Guidelines
 
-<img src="./assets/system18_banner.png" width="1000">
+<img src="./assets/system18_banner.png" width="800">
 
 ## Team Structure
 
