@@ -1,6 +1,6 @@
 # System18
 
-![System18](./assets/system18.png)
+<img src="./assets/system18.png" width="400">
 
 # System18
 
@@ -69,19 +69,11 @@ DTFYW
 
 **System18** — Trading bot
 
-
-
-
-
-
-
-
 ---
-
 
 # System18 - Project Development Guidelines
 
-![System18](./assets/system18_banner.png)
+<img src="./assets/system18_banner.png" width="600">
 
 ## Team Structure
 
@@ -102,14 +94,11 @@ DTFYW
 #### FrankWalker - Task Name
 - [ ] task
 
-
 #### Iz3xypug - Task Name
 - [ ] Task Name
 
-
 #### Art - Task Name
 - [ ] Task Name
-
 
 ---
 
