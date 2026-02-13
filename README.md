@@ -68,3 +68,69 @@ DTFYW
 ---
 
 **System18** — Trading bot
+
+
+
+
+
+
+
+
+---
+
+
+# System18 - Project Development Guidelines
+
+![System18](./assets/compressed_system18.png)
+
+## Team Structure
+
+**Team Lead:**
+- **FrankWalker** - Lead Developer & Architecture
+
+**Developers:**
+- **FrankWalker** - Lead Developer & Architecture
+- **Izexypug** - Developer  
+- **Art** - Developer
+
+---
+
+## Project Phases & Task Distribution
+
+### Phase 1: Project Setup & Foundation (Week 0-0)
+
+#### FrankWalker - Task Name
+- [ ] task
+
+
+#### Iz3xypug - Task Name
+- [ ] Task Name
+
+
+#### Art - Task Name
+- [ ] Task Name
+
+
+---
+
+## Development Best Practices
+
+### Code Standards
+- Follow Rust naming conventions (snake_case for functions/variables, CamelCase for types)
+- Pass `cargo clippy` with no warnings
+- Use meaningful variable and function names
+- Comment complex logic with inline comments (`//`)
+- Keep functions small and focused (ideally < 50 lines)
+- Avoid `unwrap()` in production code - use proper error handling with `Result` or `Option`
+- Prefer iterators over explicit loops where readable
+- Avoid unnecessary `.clone()` - prefer references when possible
+- No floating functions
+- no more then 5 fields in a struct
+
+### Git Workflow
+1. Create feature branch from `develop`
+2. Make changes and commit regularly
+3. Write descriptive commit messages
+4. Create pull request when ready
+5. **FrankWalker** reviews and approves
+6. Merge to `develop` after approval
